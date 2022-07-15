@@ -1,2 +1,5 @@
 welcome to Git class
 Second line added
+
+
+Conflicts at feature2 Branch
